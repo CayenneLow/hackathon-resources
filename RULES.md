@@ -24,7 +24,7 @@ any CSESoc event.
 
 2.  You must build the project during the allocated time and at the venue.
 
-3.  Any code must be published in a repository that is publicly accessible. You must
+3.  Any code must be published in a repository on GitHub that is publicly accessible. You must
     provide this link in your submission.
 
 4.  Teams must not work on any part of an existing project during the competition.
