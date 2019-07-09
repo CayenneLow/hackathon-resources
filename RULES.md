@@ -11,16 +11,15 @@ any CSESoc event.
 
 ### Section 1: Eligibility
 
-1.  Teams can have 3 people to six people.Group submissions with under three people will be placed in a team prior to the event
+1.  Teams can have three to six people. Individual registrations will be placed in a team prior to the event.
 
-2.  Each member of a team must be 18 years or older, and be a student studying at
-    UNSW.
+2.  Each member of a team must be a student studying at UNSW.
 
 3.  Teams cannot have remote participants.
 
 ### Section 2: Projects
 
-1.  Teams have 24 hours to build a prototype. There are no restrictions on what
+1.  Teams have 24 hours to build a prototype adhering to the theme. There are no restrictions on what
     form it should take, programming languages or devices.
 
 2.  You must build the project during the allocated time and at the venue.
@@ -34,7 +33,7 @@ any CSESoc event.
     This includes, but not limited to, any code, graphics, audio, and 3D design work.
 
 6.  Any third-party material used must be legally licensed and is available to the
-    public to download. All third-party materials must be open-source. You must list of all third-party
+    public to download. All third-party materials must be open-source. You must list all third-party
     material and APIs, in your submission.
 
 ### Section 3: Safety
