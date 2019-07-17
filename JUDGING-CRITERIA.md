@@ -8,15 +8,15 @@
 
 How well does the project tackle the goal? Will it completely solve the goal, make significant strides to achieve the goal, address a smaller (but still important) part of the goal, or just scratch the surface of the goal?
 
-* Example: Goal 2 (No Hunger)
+   * Example: Goal 2 (No Hunger)
 
-    * Completely solves the goal - a project which can provide food to literally every human on the planet
+       * Completely solves the goal - a project which can provide food to literally every human on the planet
 
-    * Significant strides to achieve the goal - a project which can provide food to the countries that need the food the most
+       * Significant strides to achieve the goal - a project which can provide food to the countries that need the food the most
 
-    * Addresses a smaller part of the goal - a project which can provide food to target demographics (e.g. local homeless)
+       * Addresses a smaller part of the goal - a project which can provide food to target demographics (e.g. local homeless)
 
-    * Scratches the surface - a project which can provide food to a select few people
+       * Scratches the surface - a project which can provide food to a select few people
 
 * **Viability/Feasibility (10)**
 
@@ -29,5 +29,5 @@ Is the project technically interesting or difficult? Is it just some lipstick on
 * **Originality (5)**
 Is the hack more than just another generic social/mobile/web/IoT solution? Does it do something entirely novel, or at least take a fresh approach to an old problem?
 
-* **Presentation (5) **
+* **Presentation (5)**
 How effective was the presentation at conveying the team's approach to their chosen goal? Was it easy to understand the problem domain and how exactly the project has taken steps in tackling it?
