@@ -1,6 +1,6 @@
 # Judging Criteria
 
-**UN #Envision2030 Goals:**[https://www.un.org/development/desa/disabilities/envision2030.html](https://www.un.org/development/desa/disabilities/envision2030.html)
+**UN #Envision2030 Goals:** [https://www.un.org/development/desa/disabilities/envision2030.html](https://www.un.org/development/desa/disabilities/envision2030.html)
 
 **Note: You MUST choose at least one of the goals from the link above and attach it with your submission**
 
