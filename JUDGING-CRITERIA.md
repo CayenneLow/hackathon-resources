@@ -22,7 +22,7 @@ How well does the project tackle the goal? Will it completely solve the goal, ma
 
 Is the project technically interesting or difficult? Is it just some lipstick on an API, or were there any technical challenges to surmount when building it? **Does it actually work**, is it a barely functional prototype, or is it completely smoke and mirrors?
 
-* **Viability/Feasibility (10)**
+* **Business Model (10)**
 
 If the project were to be rolled-out in the real world, how viable would it actually be? Would it be feasible in terms of **time, cost & scale**? Or is it a bit too idealistic to be implemented realistically? If the goal concerns people in developing countries, does the project properly take their needs into account?
 
