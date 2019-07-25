@@ -9,6 +9,10 @@
 All hackathon competitors must follow the following rules when participating in
 any CSESoc event. 
 
+### Submit your code here: 
+
+1. https://forms.gle/1voPCy5T4k5xvBTY8
+
 ### Section 1: Eligibility
 
 1.  Teams can have three to six people. Individual registrations will be placed in a team prior to the event.
@@ -59,3 +63,4 @@ any CSESoc event.
 
 2.  Repeated breaches or a serious breach may result in you and/or your team being
     banned from competing in any CSESoc competition in the future.
+    
