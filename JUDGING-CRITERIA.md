@@ -1,6 +1,6 @@
 # Judging Criteria
 
-**United Nations #Envision2030 Goals:** [https://www.un.org/sustainabledevelopment/sustainable-development-goals/](https://www.un.org/development/desa/disabilities/envision2030.html)
+**United Nations Sustainable Development Goals:** [https://www.un.org/sustainabledevelopment/sustainable-development-goals/]
 
 **Note: You MUST choose at least one of the goals from the link above and attach it with your submission**
 
